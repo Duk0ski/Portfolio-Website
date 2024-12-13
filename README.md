@@ -59,6 +59,7 @@ To run this project locally, follow these steps:
 2. Check out the featured projects and their live links or repositories.
 3. Use the contact form to send me a message directly.
 
+Additionally, there's a Chatbot available on this page. It’s always here to assist you with any questions or help you navigate through the site. Feel free to ask anything!
 ---
 
 ## Contributing
