@@ -7,6 +7,7 @@ Welcome to my portfolio website! This is where I showcase my skills, projects, a
 # Project Structure
 
 Portfolio Website/
+ ```bash
 ├── about-me.html         # Personal information page  
 ├── contact.html          # Contact form and details  
 ├── index.html            # Main homepage  
@@ -14,7 +15,7 @@ Portfolio Website/
 ├── style.css             # Global styling  
 ├── script.js             # Interactive logic  
 └── images/               # Folder containing images  
-
+```
 
 ---
 
