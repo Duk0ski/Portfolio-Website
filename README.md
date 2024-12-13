@@ -14,11 +14,7 @@ Personal Website/
 ├── posts.html            # Posts page
 ├── style.css             # Main stylesheet
 ├── script.js             # JavaScript logic
-├── profilepic.jpg        # Personal profile picture
-├── background.jpg        # Background image
-├── dukoicon.png          # Website favicon
-└── Posts photos/         # Folder containing images for posts
-```
+└── images/         # Folder containing images for posts
 
 ---
 
