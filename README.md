@@ -6,15 +6,15 @@ Welcome to my portfolio website! This is where I showcase my skills, projects, a
 
 # Project Structure
 
-```
-Personal Website/
-├── about-me.html         # Page for personal information
-├── contact.html          # Contact page
-├── index.html            # Main homepage
-├── posts.html            # Posts page
-├── style.css             # Main stylesheet
-├── script.js             # JavaScript logic
-└── images/         # Folder containing images for posts
+Portfolio Website/
+├── about-me.html         # Personal information page  
+├── contact.html          # Contact form and details  
+├── index.html            # Main homepage  
+├── posts.html            # Blog/posts section  
+├── style.css             # Global styling  
+├── script.js             # Interactive logic  
+└── images/               # Folder containing images  
+
 
 ---
 
