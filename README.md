@@ -6,7 +6,7 @@ Welcome to my portfolio website! This is where I showcase my skills, projects, a
 
 # Project Structure
 
-'''
+```
 Personal Website/
 ├── about-me.html         # Page for personal information
 ├── contact.html          # Contact page
