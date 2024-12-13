@@ -4,9 +4,9 @@ Welcome to my portfolio website! This is where I showcase my skills, projects, a
 
 ---
 
-## Project Structure
+# Project Structure
 
-```
+---
 Personal Website/
 ├── about-me.html         # Page for personal information
 ├── contact.html          # Contact page
@@ -18,7 +18,7 @@ Personal Website/
 
 ---
 
-## Features
+# Features
 
 - **Responsive Design**: Optimized for both desktop and mobile devices.
 - **Project Showcase**: Highlights of my key projects with detailed descriptions and links.
@@ -48,7 +48,7 @@ To run this project locally, follow these steps:
 2. Navigate to the project directory:
    ```bash
    cd portfolio
-   ```
+---
 3. Open the project in your browser (no server setup required as this is a static website).
 
 ---
